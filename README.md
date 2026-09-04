@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Dev 👋
 
-<!--
-**jussttdevv/jussttdevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 12th grader who builds full-stack web apps and automation tools — because it's fun.
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
+- [Rides4u](https://rides4u.in) — a ride-hailing platform (Django + React + PostgreSQL)
+- [Meraspot](https://parking.rides4u.in) — a parking booking app (live)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm learning
+- Django REST Framework (building APIs the right way)
+- PostgreSQL & database design (beyond basic CRUD)
+- Python (deepening my fundamentals — scripting, automation, clean code)
+
+## 🧰 Tech Stack
+Python · Django · React · PostgreSQL · Redis · Celery · Docker · Git
+
+## 📫 Where to find me
+- [Portfolio](https://my-portfolio-jussttdevv.vercel.app)
+- [LinkedIn](http://www.linkedin.com/in/jussttdevv)
+- [GitHub](https://github.com/jussttdevv)
