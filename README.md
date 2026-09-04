@@ -1,6 +1,6 @@
 # Hi, I'm Dev 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFF700&center=true&width=435&lines=Hey%2C+I'm+Dev%2C+;I+build+full-stack+websites%2C+;Python%2C+Django%2C+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=886DF3&center=true&width=435&lines=Hey%2C+I'm+Dev%2C+;I+build+full-stack+websites%2C+using+Python-Django-React)](https://git.io/typing-svg)
 
 I'm a 12th grader who builds full-stack web apps and automation tools — because it's fun.
 
