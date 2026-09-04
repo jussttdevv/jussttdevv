@@ -1,7 +1,4 @@
 # Hi, I'm Dev 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=886DF3&center=true&width=435&lines=Hey%2C+I'm+Dev%2C+;I+build+full-stack+websites%2C+using+Python-Django-React)](https://git.io/typing-svg)
-
 I'm a 12th grader who builds full-stack web apps and automation tools — because it's fun.
 
 ## 🔭 What I'm working on
@@ -21,4 +18,4 @@ Python · Django · React · PostgreSQL · Redis · Celery · Docker · Git
 - [LinkedIn](http://www.linkedin.com/in/jussttdevv)
 - [GitHub](https://github.com/jussttdevv)
 
-![Pixel Art - Coding](https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=DC2323E1&center=true&width=435&lines=Hey%2C+I'm+Dev%2C+;I+develop+websites%2C+;just+a+curious+learner%2C+;Python+%3A++Django+%3A++React)](https://git.io/typing-svg)
