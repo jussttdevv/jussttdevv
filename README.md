@@ -10,9 +10,7 @@ I'm a 12th grader who builds full-stack web apps and automation tools — becaus
 - Django REST Framework (building APIs the right way)
 - PostgreSQL & database design (beyond basic CRUD)
 - Python (deepening my fundamentals — scripting, automation, clean code)
-
-- ![Pixel Art - Coding](https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8)
-
+- 
 ## 🧰 Tech Stack
 Python · Django · React · PostgreSQL · Redis · Celery · Docker · Git
 
@@ -20,3 +18,5 @@ Python · Django · React · PostgreSQL · Redis · Celery · Docker · Git
 - [Portfolio](https://my-portfolio-jussttdevv.vercel.app)
 - [LinkedIn](http://www.linkedin.com/in/jussttdevv)
 - [GitHub](https://github.com/jussttdevv)
+
+![Pixel Art - Coding](https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8)
