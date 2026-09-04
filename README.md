@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&width=435&lines=Hey%2C+I'm+Dev%2C+;I+develop+websites%2C+;just+a+curious+learner%2C+;Python+%3A++Django+%3A++React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Creamy+Chicken&weight=800&size=28&pause=1000&color=000000&background=FFFFFF&width=435&lines=Hey%2C+I'm+Dev+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&width=435&lines=I+develop+websites%2C+;just+a+curious+learner%2C+;Python+%3A++Django+%3A++React)](https://git.io/typing-svg)
 
 I'm a 12th grader who builds full-stack web apps and automation tools — because it's fun.
 
