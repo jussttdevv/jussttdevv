@@ -5,11 +5,13 @@ I'm a 12th grader who builds full-stack web apps and automation tools — becaus
 - [Rides4u](https://rides4u.in) — a ride-hailing platform (Django + React + PostgreSQL)
 - [Meraspot](https://parking.rides4u.in) — a parking booking app (live)
 
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&width=435&lines=Hey%2C+I'm+Dev%2C+;I+develop+websites%2C+;just+a+curious+learner%2C+;Python+%3A++Django+%3A++React)](https://git.io/typing-svg)
+
 ## 🌱 What I'm learning
 - Django REST Framework (building APIs the right way)
 - PostgreSQL & database design (beyond basic CRUD)
 - Python (deepening my fundamentals — scripting, automation, clean code)
-- 
+  
 ## 🧰 Tech Stack
 Python · Django · React · PostgreSQL · Redis · Celery · Docker · Git
 
@@ -18,4 +20,3 @@ Python · Django · React · PostgreSQL · Redis · Celery · Docker · Git
 - [LinkedIn](http://www.linkedin.com/in/jussttdevv)
 - [GitHub](https://github.com/jussttdevv)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=DC2323E1&center=true&width=435&lines=Hey%2C+I'm+Dev%2C+;I+develop+websites%2C+;just+a+curious+learner%2C+;Python+%3A++Django+%3A++React)](https://git.io/typing-svg)
